@@ -23,6 +23,10 @@ import os
 import sys
 
 # The entry, in two halves: the rename, then the why that earns it.
+# Why the joke lands: Venus is the ex — hottest thing in the solar
+# system, spins backwards, and rains acid on anyone who tries to come
+# back. All three traits are real Venus facts, and together they fit no
+# other planet, so the name is earned by the science, not just the pun.
 ENTRY = (
     "Venus is now 'The Ex': hottest thing in the solar system, "
     "spins backwards, and rains acid on anyone who tries to come back."
